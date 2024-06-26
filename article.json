@@ -1,0 +1,12 @@
+{
+    "title": "Attribuer des codes postaux à mes collaborateurs",
+    "introduction": "Dans votre abonnement, vous disposez par défaut d'une vingtaine de codes postaux, ou plus si vous avez augmenté votre zone en prenant un abonnement plus élevé.",
+    "note": "Il est possible que vous ne souhaitiez pas que tous vos collaborateurs aient accès à l'ensemble des codes postaux, dans ce cas, nous allons voir comment leur attribuer à chacun 1 ou plusieurs code postal, de ce fait, les annonces qu'ils verront se situeront obligatoirement sur les zones que vous aurez déterminées",
+    "steps": [
+        "Connectez-vous à pige-online.fr avec votre compte de super administrateur, en utilisant le mail qui a souscrit l'abonnement !",
+        "Rendez-vous dans \"Mon Compte\" puis cliquez sur \"Gérer mon équipe\"",
+        "Cliquez sur le + à coté du nom de l'utilisateur",
+        "Cliquez sur \"gérer ses codes postaux\"",
+        "Vous arriverez sur un tableau avec tous les CP disponibles, il vous suffira de cliquer sur la croix rouge pour lui attribuer le code postal, ou sur le sigle V en vert pour lui désaffecter le code postal"
+    ]
+}
